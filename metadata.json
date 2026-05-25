@@ -1,0 +1,6 @@
+{
+  "name": "Eleganza Events Organizer",
+  "description": "Layanan perencana acara premium yang menawarkan paket pesta ulang tahun, seminar profesional, dan perayaan eksklusif baik indoor maupun outdoor dengan sentuhan kemewahan hitam dan emas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
